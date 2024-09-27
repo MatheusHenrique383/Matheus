@@ -5,6 +5,18 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>Deus a cima de tudo</title>
 	<link rel="stylesheet" href="body {.css">
+	<script type="text/javascript">
+
+function changephoto1(){
+         document.getElementById("foto").setAttribute("src" , "imagens/teu.jpg");
+       }
+
+       function changephoto2(){
+                document.getElementById("foto").setAttribute("src" , "matheus.png");
+       }
+    </script>
+
+	</script>
 </head>
 <body>
 	<div>
@@ -21,17 +33,21 @@
 			<li>
 				<a href="contato.html"> contato</a>
 			</li>
+			<li></li>
+				<a href="Sobre mim.html"> Sobre mim</a>
+			</li>
 		</ul>
 	</nav>
 
 	<header>
-		<img src="matheus.png">
+		<img src="matheus.png" id="foto" onmouseover="changephoto2();"onmouseout="changephoto1();">
 	    <h1>  Salmos 23 </h1>
 		<h2>O SENHOR é o meu pastor: nada me faltará.</h2>
 		
 
 
 	</header>
+	
 	<main>
 		<P>Deitar-me faz em verdes pastos, guia-me mansamente a águas tranquilas.
 			 Refrigera a minha alma; guia-me pelas veredas da justiça, por amor do seu nome.
@@ -51,7 +67,7 @@
 			<img src="linkedin.svg"></img>
 			<p>Linkedin</p>
 		</a>
-		<a href="" target="_blank" rel="noopener noreferrer">
+		<a href="https://www.youtube.com/@Matheus30405" target="_blank" rel="noopener noreferrer">
 			<img src="youtube.svg"></img>
 			<p>Youtube</p>
 		</a>
