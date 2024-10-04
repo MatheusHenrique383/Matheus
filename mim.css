@@ -1,0 +1,38 @@
+*{
+   margin: 5px;
+   
+}
+body{
+    color: rgb(255, 255, 255);
+    background-color:black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+ul{
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+    align-items:  center;
+    padding: 18px;
+
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+header img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 5px solid #DCDCDC;
+   
+}
+
+main img{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    border: 5px solid #DCDCDC; 
+
+}
+
