@@ -1,0 +1,45 @@
+body {
+    color:wheat;
+    background-color: black ;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul{
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+    align-items:  center;
+    padding: 18px;
+}
+a {
+    color: wheat;
+    text-decoration: none;
+}
+
+header img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 5px solid #DCDCDC;
+}
+
+footer img{
+    width: 40px;
+    height: 40px;
+   
+}
+footer {
+    display: flex;
+    justify-content: center;
+}
+
+footer a {
+    margin: 20px;
+    text-align: center;
+}
+nav a:hover{
+    color: rgb(0, 128, 117);
+
+}
+
+ 
