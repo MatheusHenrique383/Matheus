@@ -1,7 +1,7 @@
 Olá, sou Matheus Henrique, tenho 17 anos e sou programador front-end. Desde muito jovem, me interessei por tecnologia e, aos poucos, encontrei minha paixão no desenvolvimento de interfaces web. A ideia de criar algo que as pessoas usam todos os dias me motivou a mergulhar nesse universo e, hoje, estou em busca de novos desafios como desenvolvedor.
 
 Como Comecei
-Minha jornada começou com HTML e CSS. Criei meus primeiros sites simples e logo percebi que queria mais. Ao aprender JavaScript, passei a criar interações dinâmicas e a entender o funcionamento das aplicações na web. Em pouco tempo, percebi que a área de front-end seria a minha escolha definitiva.
+Minha jornada começou com HTML e CSS. Criei meus primeiros sites simples e logo percebi que queria mais. Ao aprender JavaScript, passei a criar interações dinâmicas e a entender o funcionamento das aplicações na web. Em pouco tempo, percebi que a área de front-end seria a minha escolha , e estou estudando back end , para se tornar um full-stack.
 
 O que Aprendi Até Agora
 HTML, CSS e JavaScript: Com esses três pilares, fui capaz de criar projetos completos e funcionalidade de sites dinâmicos.
